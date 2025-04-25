@@ -1,0 +1,1 @@
+# sample-useless-api-in-golang
